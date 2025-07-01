@@ -1,5 +1,6 @@
 # 🇧🇩 OSINT-Tools-Bangladesh
-<img src="https://en.wikipedia.org/wiki/Flag_of_Bangladesh#/media/File:Flag_of_Bangladesh.svg" alt="EgptFLG"/> 
+<img src="https://en.wikipedia.org/wiki/Flag_of_Bangladesh#/media/File:Flag_of_Bangladesh.svg" alt="BGDFLG"/> 
+
 A standardized collection of Bangladesh-specific OSINT and public data tools for investigations and digital research by Tausif Akbar (Redesigned for OSINT for Countries V2.0 by Pogoda).
 
 ## Credits of the original repo by Tausif Akbar
