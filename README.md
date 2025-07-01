@@ -1,6 +1,7 @@
 # 🇧🇩 OSINT-Tools-Bangladesh
 <img src="https://en.wikipedia.org/wiki/Flag_of_Bangladesh#/media/File:Flag_of_Bangladesh.svg" alt="EgptFLG"/> 
 A standardized collection of Bangladesh-specific OSINT and public data tools for investigations and digital research by Tausif Akbar (Redesigned for OSINT for Countries V2.0 by Pogoda).
+
 ## Credits of the original repo by Tausif Akbar
 [![GitHub Repo stars](https://img.shields.io/github/stars/seotausif/OSINT-Tools-Bangladesh)](https://github.com/seotausif/OSINT-Tools-Bangladesh/stargazers)
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -40,6 +41,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [e-Porcha Land Portal](http://eporcha.gov.bd/)
 - [Ministry of Land Services](https://land.gov.bd/)
 - [Bangladesh Securities and Exchange Commission](https://sec.gov.bd/home/stockex)
+- [Rajuk GIS Zoning Maps](http://103.48.16.228/rajukgis/)
+- [OpenStreetMap Bangladesh](https://www.openstreetmap.org/#map=6/23.685/90.356)
 
 ## Vehicles
 - [BRTA Vehicle Registration Check](https://bsp.brta.gov.bd/register/vehicle)
@@ -48,10 +51,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ### 🆔 Voter/NID & Civil Identity
 - [NID Services Portal](https://services.nidw.gov.bd/) *(limited public access)*
 - [Election Commission Voter Info](https://www.ecs.gov.bd/)
-### 👥 Social & People Search
 - [Facebook UID Search Tools](https://lookup-id.com/)
 - [TikTok OSINT Tools](https://tiktok-osint.ninja/)
-- [Telegram OSINT Tools](https://github.com/woj-ciech/telegram-OSINT)
 
 ## Public Procurement
 - [e-GP Procurement Portal](https://www.eprocure.gov.bd/)
@@ -61,7 +62,3 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [BTCL WHOIS Lookup](https://www.btcl.gov.bd/page/whois)
 - [IPinfo.io](https://ipinfo.io/)
 - [DomainTools](https://whois.domaintools.com/)
-
-## 🛰️ Maps & Geolocation
-- [Rajuk GIS Zoning Maps](http://103.48.16.228/rajukgis/)
-- [OpenStreetMap Bangladesh](https://www.openstreetmap.org/#map=6/23.685/90.356)
