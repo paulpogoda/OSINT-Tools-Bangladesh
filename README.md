@@ -22,9 +22,12 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
  - [Appendix](#appendix) # Add it only if you really have to
 
 ## Open Data portals
+- [Open Data Bangladesh](https://data.gov.bd/) | [Datasets](https://data.gov.bd/dataset)
 - [Bangladesh Bureau of Statistics (BBS)](http://www.bbs.gov.bd/)
-- [Open Data Bangladesh](https://data.gov.bd/)
 - [NIXA Internet Exchange stats](http://www.nixa.org.bd/)
+- [Bangladesh on MRDI Open Data](https://opendata.mrdibd.org/)
+- [Gazettes Archive - Bangladesh Government Press
+](https://www.dpp.gov.bd/bgpress/index.php/document/gazettes/140)
 
 ### Court Data
 - [Bangladesh Supreme Court Cause List](http://supremecourt.gov.bd/)
@@ -35,8 +38,11 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Chittagong Stock Exchange](https://www.cse.com.bd/)
 
 ## Legal Entities
+- READ [Company Search in Bangladesh](https://www.network.com.bd/services/corporate-secretarial/company-search-in-bangladesh/)
 - [RJSC: Registrar of Joint Stock Companies](http://www.roc.gov.bd/)
 - [BOI/BEZA](http://www.beza.gov.bd/)
+- [Bangladesh on Info-Clipper](https://www.info-clipper.com/en/company/search/bangladesh.bd.html)
+- [Bangladesh Customs Company Search](https://customs.gov.bd/portal/services/docTracking/referenceTrackingCompany.jsf)
 
 ## Maps
 - [e-Porcha Land Portal](http://eporcha.gov.bd/)
@@ -49,11 +55,11 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [BRTA Vehicle Registration Check](https://bsp.brta.gov.bd/register/vehicle)
 
 ## People 
-### 🆔 Voter/NID & Civil Identity
-- [NID Services Portal](https://services.nidw.gov.bd/) *(limited public access)*
+- [Voter/NID Services Portal](https://services.nidw.gov.bd/) *(limited public access)*
 - [Election Commission Voter Info](https://www.ecs.gov.bd/)
 - [Facebook UID Search Tools](https://lookup-id.com/)
 - [TikTok OSINT Tools](https://tiktok-osint.ninja/)
+- Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
 
 ## Public Procurement
 - [e-GP Procurement Portal](https://www.eprocure.gov.bd/)
